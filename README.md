@@ -7,7 +7,7 @@ https://github.com/doldolmeng2/recycling-object-detector
 
 # 라벨 파일 형식
 
- <class_id> <x_center> <y_center> <width> <height>
+ (class_id) (x_center) (y_center) (width) (height)
 
 # yaml 파일 형식
 
