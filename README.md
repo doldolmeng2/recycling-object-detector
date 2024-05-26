@@ -2,6 +2,8 @@
 https://github.com/doldolmeng2/recycling-object-detector
 
 # 데이터 형식
+![image](https://github.com/doldolmeng2/recycling-object-detector/assets/150113294/fe508fd1-6fbc-4254-86b3-ba0dd5e4e3ae)
+
 dataset/
     images/
         train/
