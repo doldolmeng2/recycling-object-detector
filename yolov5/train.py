@@ -1,5 +1,8 @@
 # YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
 """
+
+# python train.py --img 640 --batch 16 --epochs 50 --data dataset.yaml --cfg models/yolov5s.yaml --weights yolov5s.pt --name recycle_detector
+
 Train a YOLOv5 model on a custom dataset. Models and datasets download automatically from the latest YOLOv5 release.
 
 Usage - Single-GPU training:
