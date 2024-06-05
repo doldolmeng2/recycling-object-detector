@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['container']
+
+roboflow:
+  workspace: hero-ocy4w
+  project: container-1towe
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hero-ocy4w/container-1towe/dataset/1

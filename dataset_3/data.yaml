@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bottle']
+
+roboflow:
+  workspace: firstworkspace-rybbb
+  project: plasticbottle-j1j0q
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/firstworkspace-rybbb/plasticbottle-j1j0q/dataset/1

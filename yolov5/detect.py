@@ -1,4 +1,5 @@
 # YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+# python3 detect.py --weights runs/train/recycle_detector/weights/best.pt --img 640 --conf 0.25 --source ../dataset/test/images
 """
 Run YOLOv5 detection inference on images, videos, directories, globs, YouTube, webcam, streams, etc.
 

@@ -1,0 +1,13 @@
+train: /home/doldolmeng2/erica/tensor_programming/recycling-object-detector/dataset/train/images
+val: /home/doldolmeng2/erica/tensor_programming/recycling-object-detector/dataset/valid/images
+test: /home/doldolmeng2/erica/tensor_programming/recycling-object-detector/dataset/test/images
+
+nc: 2
+names: ['bottle', 'cup']
+
+roboflow:
+  workspace: hyesung
+  project: plastic_cup
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hyesung/plastic_cup/dataset/2
