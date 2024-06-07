@@ -2,12 +2,12 @@ train: /home/doldolmeng2/erica/tensor_programming/recycling-object-detector/data
 val: /home/doldolmeng2/erica/tensor_programming/recycling-object-detector/dataset/valid/images
 test: /home/doldolmeng2/erica/tensor_programming/recycling-object-detector/dataset/test/images
 
-nc: 2
-names: ['bottle', 'cup']
+nc: 3
+names: ['bottle', 'cup', 'disposable']
 
 roboflow:
-  workspace: hyesung
-  project: plastic_cup
-  version: 2
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/hyesung/plastic_cup/dataset/2
+  workspace: comet-divdf
+  project: disposable-7lr4v
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/comet-divdf/disposable-7lr4v/1

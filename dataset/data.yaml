@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['bottle', 'cup', 'disposable']
+
+roboflow:
+  workspace: comet-divdf
+  project: disposable-7lr4v
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/comet-divdf/disposable-7lr4v/1
